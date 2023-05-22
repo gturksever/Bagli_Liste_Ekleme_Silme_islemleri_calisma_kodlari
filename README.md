@@ -1,1 +1,1 @@
-# Bagli_Liste_Ekleme_Silme_islemleri_calisma_kodlari
+# C programlama dili ile Ram içerisindeki adreslere doğrudan ekleme ve silme işlemlerini yapan Veri yapısı kodları.
